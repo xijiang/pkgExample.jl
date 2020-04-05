@@ -1,0 +1,4 @@
+name = "pkgExample"
+uuid = "2ab3faaa-c7ad-42e8-a4c6-63a2f52bbe3c"
+authors = ["Xijiang Yu <xijiang@users.noreply.github.com>"]
+version = "0.1.0"
