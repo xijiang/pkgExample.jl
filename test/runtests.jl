@@ -1,5 +1,5 @@
 println("Testing pkgExample ...")
 
-using Test
+using Test, pkgExample
 
 @test pkgExample.plusone(17) == 18
