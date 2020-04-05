@@ -3,7 +3,7 @@ A test julia package repo to demonstrate how to create a publicly shared package
 
 ## Create a public julia package
 
-Here the package is named `pkgExample`.  You can your package whatever else.
+Here the package is named `pkgExample`.  You can name your package whatever else.
 
 ### Start a Julia project with its REPL
 
