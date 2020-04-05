@@ -2,4 +2,4 @@ println("Testing pkgExample ...")
 
 using Test
 
-@test plusone(17) == 18
+@test pkgExample.plusone(17) == 18
